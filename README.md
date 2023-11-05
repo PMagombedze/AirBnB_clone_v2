@@ -1,5 +1,1 @@
-# AIRBNB_CLONE_V2
-
-
-
-## __Airbnb clone__
+# AirBnB_clone_v2
